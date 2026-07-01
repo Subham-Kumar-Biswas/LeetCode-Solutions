@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -17,6 +18,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1470-shuffle-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
