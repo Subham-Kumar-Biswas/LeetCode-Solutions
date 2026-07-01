@@ -6,6 +6,7 @@
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Simulation
 |  |
 | ------- |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
