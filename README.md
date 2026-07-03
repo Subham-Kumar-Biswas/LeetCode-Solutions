@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
