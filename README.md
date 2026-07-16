@@ -89,4 +89,5 @@
 | ------- |
 | [0476-number-complement](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
