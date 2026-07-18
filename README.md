@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -90,6 +91,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
