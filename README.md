@@ -35,6 +35,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
