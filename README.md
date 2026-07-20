@@ -47,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -63,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Matrix
 |  |
@@ -81,6 +83,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
