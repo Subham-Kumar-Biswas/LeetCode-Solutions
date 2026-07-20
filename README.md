@@ -27,6 +27,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
