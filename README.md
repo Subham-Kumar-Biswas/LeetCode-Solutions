@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -26,6 +27,7 @@
 | [0075-sort-colors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
@@ -93,6 +96,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -101,6 +105,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -113,6 +118,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0476-number-complement) |
