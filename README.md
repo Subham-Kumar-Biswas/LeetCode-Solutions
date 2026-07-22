@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0137-single-number-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -139,8 +140,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
