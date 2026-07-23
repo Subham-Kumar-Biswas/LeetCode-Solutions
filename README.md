@@ -15,6 +15,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
 | ------- |
