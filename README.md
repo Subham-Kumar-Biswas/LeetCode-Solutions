@@ -6,6 +6,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
@@ -19,6 +20,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Array
@@ -94,6 +96,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Counting
 |  |
