@@ -16,6 +16,7 @@
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2485-find-the-pivot-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## String
 |  |
 | ------- |
