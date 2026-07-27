@@ -59,6 +59,7 @@
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -97,6 +98,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Matrix
 |  |
