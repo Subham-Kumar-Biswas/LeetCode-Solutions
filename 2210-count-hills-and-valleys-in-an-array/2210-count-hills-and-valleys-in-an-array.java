@@ -16,7 +16,7 @@ class Solution {
 
             prev = nums[i];
         }
-
+ 
         return count;
     }
         
