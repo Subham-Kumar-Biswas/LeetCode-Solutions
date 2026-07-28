@@ -7,7 +7,7 @@ class Solution {
             if (nums[i] == nums[i + 1]) {
                 continue;
             }
-
+ 
             if (nums[i] > prev && nums[i] > nums[i + 1]) {
                 count++;
             } else if (nums[i] < prev && nums[i] < nums[i + 1]) {
