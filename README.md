@@ -56,6 +56,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1436-destination-city](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -88,6 +89,7 @@
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -109,6 +111,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1436-destination-city](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
