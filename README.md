@@ -116,6 +116,7 @@
 | [1436-destination-city](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2129-capitalize-the-title](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Matrix
 |  |
