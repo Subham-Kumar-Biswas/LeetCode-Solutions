@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0908-smallest-range-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -52,6 +53,7 @@
 | [0525-contiguous-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0908-smallest-range-i) |
 | [0922-sort-array-by-parity-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
