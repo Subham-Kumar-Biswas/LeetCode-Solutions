@@ -80,6 +80,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -133,6 +134,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
 | ------- |
