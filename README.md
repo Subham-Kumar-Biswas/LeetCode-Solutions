@@ -90,6 +90,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2951-find-the-peaks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
