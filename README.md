@@ -81,6 +81,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -141,6 +142,7 @@
 | [1436-destination-city](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1436-destination-city) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
@@ -246,6 +248,7 @@
 | [0905-sort-array-by-parity](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
