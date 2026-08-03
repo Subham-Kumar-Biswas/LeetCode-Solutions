@@ -91,6 +91,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2574-left-and-right-sum-differences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -186,6 +187,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
@@ -249,6 +252,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
