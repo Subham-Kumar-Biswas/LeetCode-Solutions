@@ -1,5 +1,5 @@
 class Solution {
-    public char findTheDifference(String s, String t) {
+    /* public char findTheDifference(String s, String t) {
         char extraChar = 0;
 
         for (char c : s.toCharArray()) {
@@ -11,5 +11,19 @@ class Solution {
         }
 
         return extraChar;
+    } */
+
+    public char findTheDifference(String s, String t) {
+        int extraChar = 0;
+
+        for (char c : t.toCharArray()) {
+            extraChar += c;
+        }
+
+        for (char c : s.toCharArray()) {
+            extraChar -= c;
+        }
+
+        return (char) extraChar;
     }
 }
