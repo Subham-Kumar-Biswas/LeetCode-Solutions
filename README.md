@@ -156,6 +156,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
+| [1844-replace-all-digits-with-characters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
