@@ -121,6 +121,7 @@
 | [1512-number-of-good-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -153,6 +154,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1816-truncate-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -244,6 +246,7 @@
 | [0832-flipping-an-image](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [2032-two-out-of-three](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -288,10 +291,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
