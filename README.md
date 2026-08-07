@@ -102,6 +102,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2951-find-the-peaks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -178,6 +179,7 @@
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
 ## Matrix
 |  |
