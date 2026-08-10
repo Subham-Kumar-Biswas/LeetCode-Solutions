@@ -1,21 +1,13 @@
 class Solution {
     public int secondHighest(String s) {
-        int first = -1;
-        int second = -1;
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
-            if (Character.isDigit(ch)) {
-                int digit = ch - '0';
-
-                if (digit > first) {
-                    second = first;
-                    first = digit;
-                } else if (digit < first && digit > second) {
-                    second = digit;
+        int count = 1;
+        for (char c = '9'; c >= '0'; c--) {
+            if (s.indexOf(c) != -1) {
+                if (count-- <= 0) {
+                    return c - '0';
                 }
             }
         }
-        return second;
+        return -1; 
     }
 }
