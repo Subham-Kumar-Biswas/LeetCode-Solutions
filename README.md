@@ -179,6 +179,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2103-rings-and-rods](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2103-rings-and-rods) |
