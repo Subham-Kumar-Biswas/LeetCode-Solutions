@@ -187,6 +187,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2129-capitalize-the-title](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2315-count-asterisks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -204,6 +205,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -316,6 +318,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Divide and Conquer
