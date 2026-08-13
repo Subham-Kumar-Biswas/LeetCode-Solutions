@@ -1,0 +1,14 @@
+class Solution {
+    public int percentageLetter(String s, char letter) {
+        int countLetter = 0;
+        int n = s.length();
+
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == letter) {
+                countLetter++;
+            }
+        }
+
+        return (countLetter * 100) / n;
+    }
+}
