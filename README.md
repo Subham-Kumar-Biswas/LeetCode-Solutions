@@ -142,6 +142,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -191,6 +192,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2315-count-asterisks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -235,6 +237,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Binary Search
 |  |
 | ------- |
