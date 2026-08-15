@@ -146,6 +146,7 @@
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -197,6 +198,7 @@
 | [2278-percentage-of-letter-in-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2315-count-asterisks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -215,6 +217,7 @@
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
