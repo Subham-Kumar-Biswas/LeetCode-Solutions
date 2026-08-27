@@ -10,9 +10,7 @@ class Solution {
                     maxResult = candidate;
                 }
             }
-        }
-
-        
+        }   
 
         return maxResult;
     }
