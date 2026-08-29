@@ -100,6 +100,7 @@
 | [2293-min-max-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
@@ -150,6 +151,7 @@
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -203,6 +205,7 @@
 | [2315-count-asterisks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2315-count-asterisks) |
 | [2325-decode-the-message](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
