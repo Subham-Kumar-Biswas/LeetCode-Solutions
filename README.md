@@ -207,6 +207,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
