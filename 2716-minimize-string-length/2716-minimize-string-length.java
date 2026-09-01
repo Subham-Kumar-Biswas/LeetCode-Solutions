@@ -1,5 +1,9 @@
 class Solution {
     public int minimizedStringLength(String s) {
+        return (int) s.chars().distinct().count();
+    }
+
+    /*public int minimizedStringLength(String s) {
         boolean[] chars = new boolean[26];
 
         for (int i = 0; i < s.length(); i++) {
@@ -16,5 +20,5 @@ class Solution {
         }
 
         return count;
-    }
+    } */
 }
