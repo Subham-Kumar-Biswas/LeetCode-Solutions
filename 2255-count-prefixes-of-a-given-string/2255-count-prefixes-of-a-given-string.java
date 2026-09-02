@@ -3,6 +3,19 @@ class Solution {
         int count = 0;
 
         for (String word : words) {
+            if (s.startsWith(word)) {
+                count++;
+            }
+        }
+
+        return count;
+    }
+
+
+    /* public int countPrefixes(String[] words, String s) {
+        int count = 0;
+
+        for (String word : words) {
             if (s.length() < word.length()) continue;
 
             boolean isPrefix = true;
@@ -17,5 +30,5 @@ class Solution {
         }
 
         return count;
-    }
+    } */
 }
