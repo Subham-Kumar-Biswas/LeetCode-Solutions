@@ -97,6 +97,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -198,6 +199,7 @@
 | [2129-capitalize-the-title](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2129-capitalize-the-title) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2278-percentage-of-letter-in-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
