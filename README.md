@@ -97,6 +97,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -146,6 +147,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -253,6 +255,7 @@
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -281,6 +284,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
