@@ -5,12 +5,9 @@ class Solution {
         }
 
         int[][] ans = new int[m][n];
-        int idx = 0;
 
-        for (int row = 0; row < m; row++) {
-            for (int col = 0; col < n; col++) {
-                ans[row][col] = original[idx++];
-            }
+        for (int i = 0; i < original.length; i++) {
+            ans[i / n][i % n] = original[i];
         }
 
         return ans;
