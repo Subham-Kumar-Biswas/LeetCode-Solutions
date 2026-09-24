@@ -18,6 +18,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -33,6 +34,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
