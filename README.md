@@ -147,6 +147,7 @@
 | [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2032-two-out-of-three](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2032-two-out-of-three) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -199,6 +200,7 @@
 | [1816-truncate-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -261,6 +263,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2068-check-whether-two-strings-are-almost-equivalent](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2068-check-whether-two-strings-are-almost-equivalent) |
