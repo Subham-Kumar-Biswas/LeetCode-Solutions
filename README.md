@@ -17,6 +17,7 @@
 | [1512-number-of-good-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
@@ -197,6 +198,7 @@
 | [1763-longest-nice-substring](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1763-longest-nice-substring) |
 | [1773-count-items-matching-a-rule](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
