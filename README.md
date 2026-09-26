@@ -108,6 +108,7 @@
 | [2248-intersection-of-multiple-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2293-min-max-game) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -240,6 +241,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
