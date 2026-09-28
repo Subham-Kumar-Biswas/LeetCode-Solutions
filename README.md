@@ -112,6 +112,7 @@
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
@@ -242,6 +243,7 @@
 | [1672-richest-customer-wealth](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 ## Enumeration
 |  |
