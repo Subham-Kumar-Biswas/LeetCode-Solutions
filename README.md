@@ -402,4 +402,16 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+## Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2331-evaluate-boolean-binary-tree) |
 <!---LeetCode Topics End-->
