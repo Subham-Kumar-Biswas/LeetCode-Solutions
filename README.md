@@ -116,6 +116,7 @@
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2643-row-with-maximum-ones](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -171,6 +172,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2399-check-distances-between-same-letters](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2399-check-distances-between-same-letters) |
 | [2418-sort-the-people](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2418-sort-the-people) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2716-minimize-string-length](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -367,6 +369,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
