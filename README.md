@@ -124,6 +124,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2951-find-the-peaks](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -339,6 +340,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
