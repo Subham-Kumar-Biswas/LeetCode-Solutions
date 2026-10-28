@@ -41,6 +41,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3174-clear-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Array
 |  |
 | ------- |
@@ -238,6 +239,7 @@
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3110-score-of-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
