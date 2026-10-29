@@ -23,6 +23,7 @@
 | [2427-number-of-common-factors](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
