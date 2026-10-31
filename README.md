@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subham-Kumar-Biswas/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
