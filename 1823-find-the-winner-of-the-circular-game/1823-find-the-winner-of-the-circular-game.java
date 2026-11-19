@@ -1,5 +1,5 @@
 class Solution {
-    /*public int findTheWinner(int n, int k) {
+    public int findTheWinner(int n, int k) {
         int winner = 0;
 
         for (int i = 2; i <= n; i++) {
@@ -7,9 +7,9 @@ class Solution {
         }
 
         return winner + 1;
-    }*/
+    }
 
-    public int findTheWinner(int n, int k) {
+    /* public int findTheWinner(int n, int k) {
         return findWinner(n, k) + 1;
     }
 
@@ -19,7 +19,7 @@ class Solution {
         }
 
         return (findWinner(n - 1, k) + k) % n;
-    }
+    } */
 
     /*public int findTheWinner(int n, int k) {
         ArrayList<Integer> friends = new ArrayList<>();
